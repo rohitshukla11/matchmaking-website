@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"toke",
+				"token_symbol"
+			],
+			[
+				"token",
+				"token_name"
+			],
+			[
+				"cust",
+				"custoData"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ve",
+				"verify"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"pri",
+				"privateKey"
+			],
+			[
+				"lease",
+				"lease"
+			],
+			[
+				"leas",
+				"lease"
+			],
+			[
+				"Lease",
+				"LeaseContractDuration"
+			],
+			[
+				"sub",
+				"Submit"
+			],
+			[
+				"expected",
+				"expected_life"
+			],
+			[
+				"spe",
+				"specific_use"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"curr",
+				"currency"
+			],
+			[
+				"supp",
+				"supplier_details"
+			],
+			[
+				"expe",
+				"expense_date"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"Initial",
+				"InitialDirectCost"
+			],
+			[
+				"initial",
+				"initial_direct_cost_involved"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ind",
+				"industry_types"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"ex",
+				"expected_date"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"repor",
+				"reporting_foreign_currency_transaction_settings"
+			],
+			[
+				"le",
+				"lease"
+			],
+			[
+				"lea",
+				"lease_id"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"asset",
+				"asset_id"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tota",
+				"total_number_of_assets"
+			],
+			[
+				"pre",
+				"prefix"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/APS/resources/assets/js/components/CreateProperty/PropertyUpload.js",
+		"/var/www/html/APS/resources/views/admin/create-property/step7.blade.php",
+		"/tmp/fz3temp-2/laravel.log",
+		"/var/www/html/APS/resources/views/admin/create-property/step8.blade.php",
+		"/var/www/html/APS/resources/views/admin/create-property/step5.blade.php",
+		"/var/www/html/APS/resources/assets/js/validations/stage1-form.js",
+		"/tmp/fz3temp-2/.env",
+		"/tmp/fz3temp-2/app.js",
+		"/var/www/html/APS/public/js/app.js",
+		"/var/www/html/APS/resources/views/users/pre-approval/index.blade.php",
+		"/tmp/fz3temp-2/index.blade.php",
+		"/tmp/fz3temp-2/PropertyUpload.js",
+		"/tmp/fz3temp-2/app_backup.css",
+		"/home/flexsin/Desktop/app_backup.js",
+		"/tmp/fz3temp-2/stage1-form.js",
+		"/var/www/html/APS/resources/views/admin/create-property/step2.blade.php",
+		"/var/www/html/APS/public/css/app.css",
+		"/var/www/html/APS/public/css/style.css",
+		"/var/www/html/APS/resources/views/admin/create-property/step3.blade.php",
+		"/var/www/html/APS/public/listing/css/style.css",
+		"/var/www/html/APS/public/css/style.scss",
+		"/var/www/html/APS/app/Http/Controllers/HomeController.php",
+		"/var/www/html/APS/resources/views/cms/listing-agreement.blade.php",
+		"/tmp/fz3temp-2/style.scss",
+		"/var/www/html/APS/resources/assets/js/app.js",
+		"/var/www/html/APS/app/Http/Requests/Property/Step1Request.php",
+		"/var/www/html/APS/app/Repositories/Property/PropertyRepository.php",
+		"/var/www/html/APS/webpack.mix.js",
+		"/var/www/html/APS/app/Repositories/Property/PropertyRepositoryInterface.php",
+		"/var/www/html/APS/storage/logs/laravel.log",
+		"/tmp/fz3temp-2/Step1Request.php",
+		"/var/www/html/APS/app/Http/Controllers/Admin/CreatePropertyController.php",
+		"/var/www/html/APS/app/Http/Controllers/Admin/PropertyCms/Step2Controller.php",
+		"/home/flexsin/energy_assets/energy_assets_backend/truffle.js",
+		"/home/flexsin/energy_assets/energy_assets_frontend/src/code_for_later.js",
+		"/home/flexsin/coffee-supplychain-ethereum/truffle.js",
+		"/home/flexsin/Desktop/kryptone/node_modules/jwt-blacklist/dist/filters.js",
+		"/home/flexsin/Desktop/kryptone/key/Routes/controller/customer/tetherUS.js",
+		"/home/flexsin/Desktop/kryptone/Routes/controller/customer/tetherUS.js",
+		"/home/flexsin/aussiedigital/contracts/AUDCoin.sol",
+		"/home/flexsin/aussiedigital/package.json",
+		"/home/flexsin/Desktop/aussiedigital.sol",
+		"/home/flexsin/Desktop/originalaussiedigital.sol",
+		"/home/flexsin/exchange/kryptone-20190204T042815Z-001/kryptone/Routes/controller/admin/admin.js",
+		"/home/flexsin/exchange/kryptone-20190204T042815Z-001/kryptone/key/config/config.js",
+		"/var/www/html/041x/app/Notifications/Verification/EmailVerification.php",
+		"/var/www/html/041x/authentication.js",
+		"/var/www/html/041x/createwallet.js",
+		"/var/www/html/041x/.env",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/resources/views/overview/index.blade.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/PurchaseDetails.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/Middleware/CanVerify.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/Installer.php",
+		"/var/www/html/041x/app/Http/Controllers/Installer/VerifyController.php",
+		"/var/www/html/041x/app/Http/Controllers/Installer/InstallController.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/routes.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/Controllers/InstallController.php",
+		"/var/www/html/041x/app/Http/Kernel.php",
+		"/var/www/html/041x/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/var/www/html/041x/routes/api.php",
+		"/var/www/html/041x/app/Providers/AppServiceProvider.php",
+		"/var/www/html/041x/app/Providers/RouteServiceProvider.php",
+		"/var/www/html/041x/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/var/www/html/041x/app/Http/Middleware/AuthorizePublicIp.php",
+		"/var/www/html/041x/_ide_helper.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/Controllers/VerifyController.php",
+		"/var/www/html/041x/packages/HolluwaTosin/Installer/src/Helpers/Traits/MigrationsHelper.php",
+		"/var/www/html/041x/vendor/symfony/routing/Route.php",
+		"/var/www/html/041x/app/helpers.php",
+		"/var/www/html/041x/resources/views/admin/earnings/partials/tabs/bitcoin.blade.php",
+		"/var/www/html/041x/resources/views/admin/earnings/partials/tabs/dash.blade.php",
+		"/var/www/html/041x/resources/views/admin/earnings/partials/tabs/litecoin.blade.php",
+		"/var/www/html/041x/resources/views/admin/earnings/partials/tabs/settings.blade.php",
+		"/var/www/html/041x/resources/views/admin/earnings/index.blade.php",
+		"/var/www/html/041x/app/Http/Controllers/Admin/EarningsController.php",
+		"/var/www/html/041x/node_modules/jquery-validation/dist/jquery.validate.js",
+		"/var/www/html/041x/app/Http/Controllers/Admin/HomeController.php",
+		"/var/www/html/coffee-supplychain-ui/js/app/admin.js",
+		"/var/www/html/coffee-supplychain-ui/templates/_header.php",
+		"/home/flexsin/Decentralized-Energy-Composer/angular-app/src/app/app.component.css",
+		"/home/flexsin/Decentralized-Energy-Composer/angular-app/src/app/app.component.html",
+		"/var/www/html/BlockVotes/.htaccess",
+		"/home/flexsin/Decentralized-Energy-Composer/angular-app/node_modules/composer-client/lib/assetregistry.js",
+		"/var/www/html/tamaaas-admin-dashboard/sample_config.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/FairMarketValueController.php",
+		"/var/www/html/Witsync-Lease-Management/app/Lease.php",
+		"/var/www/html/Witsync-Lease-Management/app/LeasePaymentInvoice.php",
+		"/var/www/html/Witsync-Lease-Management/database/migrations/2019_01_04_093246_create_table_lease_payment_invoice.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/ReviewSubmitController.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/review-submit/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/residual-value-gurantee/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Drafts/IndexController.php",
+		"/var/www/html/Witsync-Lease-Management/app/LeaseAssetPayments.php",
+		"/var/www/html/Witsync-Lease-Management/.env",
+		"/var/www/html/Witsync-Lease-Management/app/LeaseDurationClassified.php",
+		"/var/www/html/Witsync-Lease-Management/app/LeaseAssets.php",
+		"/var/www/html/Witsync-Lease-Management/app/Countries.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/_form.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/_supplier_details_update_form.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/_supplier_details_form.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/InitialDirectCostController.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/LeaseIncentivesController.php",
+		"/var/www/html/Witsync-Lease-Management/app/SupplierDetails.php",
+		"/var/www/html/Witsync-Lease-Management/database/migrations/2019_01_04_102955_create_table_supplier_details.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/settings/currencies/_foreign_currency_dynamic.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/lessor-details/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/LeaseInvoiceController.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/lease-payment-invoice/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/InitialDirectCost.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/drafts/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/update.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/settings/_menubar.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Settings/ProfileController.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/settings/profile/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/settings/companyprofile/index.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/initial-direct-cost/create.blade.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/layouts/_sidebar.blade.php",
+		"/var/www/html/Witsync-Lease-Management/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php",
+		"/var/www/html/Witsync-Lease-Management/database/migrations/2019_01_03_120220_create_table_initial_direct_cost.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Settings/CompanyProfileController.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/settings/companyprofile/update.blade.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/LeaseTerminationOptionController.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/payments/create.blade.php",
+		"/home/flexsin/Desktop/PurchaseOptionController.php",
+		"/var/www/html/Witsync-Lease-Management/app/Http/Controllers/Lease/PurchaseOptionController.php",
+		"/home/flexsin/Desktop/_form.blade2.php",
+		"/var/www/html/Witsync-Lease-Management/resources/views/lease/lease-renewable-option/_form.blade.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"details",
+			"step7",
+			"upload-txt",
+			"Minimum of 4 images",
+			"Minimum of 10 images",
+			"Minimum of 4 images",
+			"Minimum of 10 images",
+			"Please add",
+			"tooltip-error",
+			"fileInput-error",
+			"4 images",
+			"tooltiptext mobiletooltip tooltip-error",
+			"upload_count-error",
+			"tooltiptext mobiletooltip tooltip-error",
+			"upload_count-error",
+			"more images",
+			"Please add",
+			"Please add 4 images in this step",
+			"Description must be between 50 and 200 words.",
+			"images",
+			"Please add",
+			"Please",
+			"step7",
+			"listingAgreement",
+			"listing-agreement",
+			"listing-elements",
+			"Open Sans",
+			"font-family",
+			"@font-face",
+			"@font-face{\n\tfont-family: 'SFPro';\n\tsrc: url(../fonts/SF-Pro-Text-Regular.ttf);\n}",
+			".property-list-item",
+			".property-list-item .input-control",
+			"capacity",
+			"check-box",
+			"Daily Rate:",
+			"description",
+			"Description must be between 50 and 200 words.",
+			"Description must be between 100 and 200 words.",
+			"Description must be between 50 and 200 words.",
+			"Description must be between 100 and 200 words.",
+			"description",
+			"create-list",
+			"admin/create-list",
+			"admin",
+			"admin/create-list",
+			"admin",
+			"description",
+			"create-list",
+			"Description must be between 100 and 200 words."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"project": "matchmaker.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"listing-agreement",
+				"resources/views/cms/listing-agreement.blade.php"
+			],
+			[
+				"style",
+				"public/css/style.css"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"HomeController",
+				"app/Http/Controllers/Home/HomeController.php"
+			],
+			[
+				"routes.",
+				"packages/HolluwaTosin/Installer/src/routes.php"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"routes",
+				"packages/HolluwaTosin/Installer/src/routes.php"
+			],
+			[
+				"VerifyController",
+				"packages/HolluwaTosin/Installer/src/Controllers/VerifyController.php"
+			],
+			[
+				"InstallContr",
+				"app/Http/Controllers/Installer/InstallController.php"
+			],
+			[
+				"route",
+				"vendor/symfony/routing/Route.php"
+			],
+			[
+				"InstallController",
+				"packages/HolluwaTosin/Installer/src/Controllers/InstallController.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"app-rou",
+				"angular-app/src/app/app-routing.module.ts"
+			],
+			[
+				"paa",
+				"package.json"
+			],
+			[
+				"routi",
+				"angular-app/src/app/app-routing.module.ts"
+			],
+			[
+				"Suppli",
+				"app/SupplierDetails.php"
+			],
+			[
+				"2019_01_04_102955_create_table_supplier_detail",
+				"database/migrations/2019_01_04_102955_create_table_supplier_details.php"
+			],
+			[
+				"Web.php",
+				"routes/web.php"
+			],
+			[
+				"FairMa",
+				"app/FairMarketValue.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				".e",
+				".env"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
